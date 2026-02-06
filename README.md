@@ -1,8 +1,6 @@
-## Overview
+## Rustman
 
-**Project Title**: Rustman
-
-**Project Description**: The iconic game of Hangman, replicated in Rust. Guess words chosen from a random list one letter at a time; however, any incorrect guesses will hurt your lives. Run out of lives, and you're done for! Also includes the ability to change the number of allowed missed guesses (lives) for each game, and the ability to choose from different themes for the word to guess (as well as create word lists yourself to play).
+The iconic game of Hangman, replicated in Rust. Guess words chosen from a random list one letter at a time; however, any incorrect guesses will hurt your lives. Run out of lives, and you're done for! Also includes the ability to change the number of allowed missed guesses (lives) for each game, and the ability to choose from different themes for the word to guess (as well as create word lists yourself to play).
 
 **Project Goals**: Further my understanding of the Rust programming language, syntax, functionality, and limitations by creating a game entirely using Rust and libraries created for it within two weeks.
 
